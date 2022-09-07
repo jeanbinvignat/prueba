@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto de Prueba para Github
 
 **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -10,4 +11,18 @@
 ## Lista ordenada
 1. Uno 
 2. Dos 
+=======
+# Proyecto de Prueba para Github
+
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+- Uno
+- Dos
+- Treh
+- Cuatro
+
+## Lista ordenada
+1. Uno 
+2. Dos 
+>>>>>>> 0cd60f713958dfe7d322a234875e24f671b08fd7
 3. Tres
